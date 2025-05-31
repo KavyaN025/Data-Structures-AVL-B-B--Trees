@@ -1,5 +1,5 @@
 
-## 💸 Expense-Tracking System
+# 💸 Expense-Tracking System
 
 This is a comprehensive Expense-Tracking System written in C, designed for efficient tracking and management of users, expenses, and families. The project demonstrates advanced data structure usage including AVL Trees for user management, B+ Trees for expense indexing, and B-Trees for managing families. It supports robust operations like adding/updating/deleting users and expenses, associating users with families, and generating detailed reports.
 
